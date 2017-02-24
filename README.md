@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 ### BUGS, to fix
-- Clicking the Done button, doesnt remove the existing items from the list. The code has a method to delete items from the list but isn't added to the updateUI method
+- Clicking the Done button, doesnt remove the existing items from the list. The code has a method to delete items from the list but isn't added to the functionality
 
 ## License
 
